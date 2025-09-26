@@ -1,3 +1,8 @@
+/*
+Name: Jacob Mwendwa Nzau
+Reg no: 26517
+description:loan enquiry 
+*/
 #include <stdio.h>
 int main(){
 int age;
