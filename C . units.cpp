@@ -6,7 +6,7 @@ description: Units for computer science
 #include<stdio.h>
 int main()
 {
-     printf ("Units offered this semester;")
+     printf ("Units offered this semester;");
      printf ("1.Analogue electronics \n");
      printf ("2.Mathematics for science\n");
      
