@@ -1,3 +1,7 @@
+/*
+Name: Jacob Mwendwa
+Reg no: 26517
+description: prompts to check bank balance and also print ther user's height
 #include<stdio.h>
 int main()
 {
