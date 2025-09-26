@@ -1,12 +1,12 @@
 /*
 Name: Jacob Mwendwa Nzau
-Reg no: 26517
-description: Units for computer science 
+Reg no: CT101/G/26517/25
+description: Units offered for computer science semester 1
 */
 #include<stdio.h>
 int main()
 {
-     printf ("Units offered this semester;");
+     printf ("Units offered in semester 1;");
      printf ("1.Analogue electronics \n");
      printf ("2.Mathematics for science\n");
      
