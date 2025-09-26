@@ -1,7 +1,7 @@
 /*
 Name: Jacob Mwendwa Nzau
 Reg no: CT101/G/26517/25
-description: prompt to check bank balance using c program 
+description: prompts to check bank balance using c program 
 */
 #include<stdio.h>
 int main()
