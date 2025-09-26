@@ -1,3 +1,8 @@
+/*
+Name: Jacob Mwendwa Nzau
+Reg no: 26517
+description: Units for computer science 
+*/
 #include<stdio.h>
 int main()
 {
