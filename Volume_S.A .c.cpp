@@ -1,7 +1,7 @@
 /*
 Name: Jacob Mwendwa Nzau
 Reg no: 26517
-description: finding volume and surface area of a cylinder using c program 
+description:To find volume and surface area of a cylinder using c program 
 */
 #include <stdio.h>
 #define PI 3.142
