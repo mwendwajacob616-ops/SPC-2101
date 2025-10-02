@@ -1,7 +1,7 @@
 /*
 Name: Jacob Mwendwa Nzau
 Reg no: CT101/G/26517/25
-description: Units offered for computer science semester 1
+description: Units offered in computer science semester 1
 */
 #include<stdio.h>
 int main()
