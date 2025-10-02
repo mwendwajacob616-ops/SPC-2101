@@ -1,7 +1,7 @@
 /*
 Name: Jacob Mwendwa Nzau
 ADM no: CT101/G/26517/25
-description:To check if student is eligible to sit for examination.
+description: water bill calculator.
 */
 #include <stdio.h>
 int main(){
