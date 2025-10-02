@@ -1,6 +1,6 @@
 /*
 Name: Jacob Mwendwa
-Reg no: 26517
+Reg no: CT101/G/26517/25
 description: prompts to check bank balance and also print ther user's height
 */
 #include<stdio.h>
