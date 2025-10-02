@@ -1,6 +1,6 @@
 /*
 Name: Jacob Mwendwa Nzau
-Reg no: 26517
+Reg no: CT101/G/26517/25
 description:to check loan eligibility using c program
 */
 #include <stdio.h>
