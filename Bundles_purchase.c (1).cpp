@@ -19,16 +19,16 @@ scanf("%d", &choice);
 switch(choice)
 {
 case 1:
-printf("You selected 100MB at Ksh.50");
+printf("You selected 100MB. Cost=Ksh.50");
       break;
    case 2:
-printf("You selected 500MB at Ksh.200");
+printf("You selected 500MB. Cost=Ksh.200");
       break;
    case 3:
-printf("You selected 1GB at Ksh.350");
+printf("You selected 1GB. Cost=Ksh.350");
       break;
    case 4:
-printf("You selected 2GB at Ksh 600");
+printf("You selected 2GB. Cost=Ksh.600");
       break;
   default:
 printf("Invalid choice!!");
