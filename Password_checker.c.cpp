@@ -1,3 +1,7 @@
+/*
+Name:Jacob Mwendwa Nzau
+ADM: CT101/G/26517/25
+*/
 #include <stdio.h>
 #include <string.h>
 int main(){
