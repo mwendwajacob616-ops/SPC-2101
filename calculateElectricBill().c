@@ -1,3 +1,7 @@
+/*
+Name:Jacob Mwendwa
+adm no:CT101/G/26517/25
+*/
 #include <stdio.h>
 float calculateElectricBill(int units) {
     float bill = 0;
