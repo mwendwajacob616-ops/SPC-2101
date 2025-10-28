@@ -1,3 +1,7 @@
+/*
+Name:Jacob Mwendwa Nzau
+adm no:CT101/G/26517/25
+*/
 #include <stdio.h>
 float convertToCelsius(float fahrenheit) {
     float celsius;
