@@ -1,3 +1,7 @@
+/*
+Name:Jacob Mwendwa
+adm no:CT101/G/26517/25
+*/
 #include <stdio.h>
 int main() {
     int occupancy[5][10];
