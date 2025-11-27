@@ -6,25 +6,25 @@ adm no:CT101/G/26517/25
 #include <stdlib.h>
 #include <time.h>
 int main() {
-    int chain[3][5][10];
-    int totalOccupied = 0;
-    int branch, floor, room;
-    srand(time(0));
-    for(branch = 0; branch < 3; branch++) {
-        for(floor = 0; floor < 5; floor++) {
-            for(room = 0; room < 10; room++) {
-                chain[branch][floor][room] = rand() % 2;
-            }
-        }
-    }
-    for(branch = 0; branch < 3; branch++) {
-        for(floor = 0; floor < 5; floor++) {
-            for(room = 0; room < 10; room++) {
-                if(chain[branch][floor][room] == 1)
-                    totalOccupied++;
-            }
-        }
-    }
-    printf("Total number of occupied rooms across all branches: %d\n", totalOccupied);
-    return 0;
+int chain[3][5][10];
+int totalOccupied = 0;
+int branch, floor, room;
+srand(time(0));
+for(branch = 0; branch < 3; branch++) {
+for(floor = 0; floor < 5; floor++) {
+for(room = 0; room < 10; room++) {
+chain[branch][floor][room] = rand() % 2;
+}
+}
+}
+for(branch = 0; branch < 3; branch++) {
+for(floor = 0; floor < 5; floor++) {
+for(room = 0; room < 10; room++) {
+if(chain[branch][floor][room] == 1)
+totalOccupied++;
+}
+}
+}
+printf("Total number of occupied rooms across all branches: %d\n", totalOccupied);
+return 0;
 }
